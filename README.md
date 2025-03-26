@@ -36,7 +36,7 @@ Then, access the app on [http://localhost:3000](http://localhost:3000)
 npm run build
 ```
 
-It will create the build artifacts under the `.next\` folder. The content of the `,next` folder should be packaged/deployed for the UI to run from a server.
+It will create the build artifacts under the `.next\` folder. The content of the `.next` folder should be packaged/deployed for the UI to run from a server.
 
 ## Final Output
 
