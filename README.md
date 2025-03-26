@@ -17,7 +17,7 @@ This is a Next.js App Router project following the MVC architecture using TypeSc
 ## 🛠 Installation
 
 ```sh
-git clone https://github.com/your-repo/nextjs-mvc-app
+git clone https://github.com/atapas/nextjs-mvc
 cd nextjs-mvc-app
 npm install
 ```
